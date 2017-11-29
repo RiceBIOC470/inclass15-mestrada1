@@ -1,3 +1,14 @@
+% Gb comments
+Step1 0 No code or files of separately saved images
+Step2 50 no probability files saved
+Step3 50 Need to use cat function to overlay images correctly 
+Step4 100
+Step5 100 Can’t grade easily because you don’t provide the correct files
+Step6 100 
+Step7 100 
+Step8 100
+Overall 75
+
 %% step 1: write a few lines of code or use FIJI to separately save the
 % nuclear channel of the image Colony1.tif for segmentation in Ilastik
 
